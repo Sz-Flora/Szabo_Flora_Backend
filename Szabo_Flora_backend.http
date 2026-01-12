@@ -1,0 +1,6 @@
+@Szabo_Flora_backend_HostAddress = http://localhost:5047
+
+GET {{Szabo_Flora_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

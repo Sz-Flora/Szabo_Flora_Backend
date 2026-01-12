@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Szabo_Flora_backend.props" />
+</Project>

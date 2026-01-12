@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "Szabo_Flora_backend.Controllers.ActorController",
+    "Method": "ActorCount",
+    "RelativePath": "api/Actor/feladat12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Szabo_Flora_backend.Controllers.ActorController",
+    "Method": "GetActorWithMovies",
+    "RelativePath": "api/Actor/feladat9/{name}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Szabo_Flora_backend.Controllers.FilmTypeController",
+    "Method": "GetAllFilmTypeWithMovies",
+    "RelativePath": "api/FilmType/feladat11",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Szabo_Flora_backend.Controllers.MovieController",
+    "Method": "GetAllMovies",
+    "RelativePath": "api/Movie/feladat10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

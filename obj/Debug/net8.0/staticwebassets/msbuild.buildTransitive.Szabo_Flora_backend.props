@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Szabo_Flora_backend.props" />
+</Project>
